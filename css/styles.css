@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+}
+.top-container{
+    background-color: #C2FFF9;
+    padding-top: 10px;
+}
+
+.top-index {
+    list-style-type: none;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    color: #9193A0;
+} 
+
+li a:hover{
+    background-color:#71DFE7;
+}
+
+hr {
+    border: dotted #9193A0 2px;
+    border-bottom: none;
+    margin: 5px auto;
+  }
+
+.photo{
+    display: block;
+    margin:30px auto;
+}
+
+.intro{
+    text-align: center;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.hobby{
+    text-align: center;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+h4{
+    display: inline-block;
+}
+p {
+    line-height: 2;
+    width:50%;
+    text-align: left;
+    margin:auto;
+    font-family: 'Shizuru', cursive;
+}
+
+.education{
+    text-align: center;
+    font-family: 'Noto Sans TC', sans-serif;
+}
